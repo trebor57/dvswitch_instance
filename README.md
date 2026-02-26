@@ -1,5 +1,7 @@
 # DVSwitch Instance Script
 
+![GitHub total downloads](https://img.shields.io/github/downloads/hardenedpenguin/dvswitch_instance/total?style=flat-square)
+
 <img src="https://github.com/hardenedpenguin/dvswitch_instance/blob/main/PXL_20250214_230436698.jpg" width="500" height="300">
 
 A shell script to create and configure multiple independent instances of DVSwitch for DMR operation. This script automates the creation of separate configurations, systemd services, and port assignments for each instance.
